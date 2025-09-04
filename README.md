@@ -6,4 +6,6 @@
 
 💭 One day i'll be a great Javascript developer
 
-<img src="https://raw.githubusercontent.com/HexyCode/HexyCode/main/assets/github-snake.gif" alt="Snake animation of my GitHub contributions" width="600"  height="120"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HexyCode/HexyCode/output/github-contribution-grid-snake-dark.svg" alt="github-snake">
+</p>
