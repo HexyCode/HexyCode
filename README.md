@@ -7,5 +7,7 @@
 💭 One day i'll be a great Javascript developer
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HexyCode/HexyCode/output/github-contribution-grid-snake-dark.svg" alt="github-snake">
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/HexyCode/HexyCode/output/snake-dark.svg" alt="github-snake">
+</p>
 </p>
