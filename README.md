@@ -6,4 +6,4 @@
 
 💭 One day i'll be a great Javascript developer
 
-![snake_contributions](https://github.com/HexyCode/HexyCode/blob/output/github-snake.svg)
+![snake_contributions](https://raw.githubusercontent.com/HexyCode/HexyCode/main/assets/github-snake.gif)
