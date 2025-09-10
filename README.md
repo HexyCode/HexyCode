@@ -4,8 +4,6 @@
 
 🎓 Computer Engineering
 
-💭 One day i'll be a great Javascript developer
-
 <p align="center">
   <p align="center">
   <img src="https://raw.githubusercontent.com/HexyCode/HexyCode/output/snake-dark.svg" alt="github-snake">
